@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
 <!DOCTYPE html>
 <head>
     <title>Sample web page</title>
@@ -85,6 +86,7 @@
     </script>
 </body>
 </html>
+~~~
 ## OUTPUT
 ![REGISTRATION FORM](https://github.com/SrimathiJeyalakshmi/EX08_Web-Design/assets/127816530/b285e690-de32-4557-9ac7-69d005e6d854)
 
